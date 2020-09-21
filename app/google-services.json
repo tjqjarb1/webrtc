@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096178492208",
+    "firebase_url": "https://webrtc-e39e5.firebaseio.com",
+    "project_id": "webrtc-e39e5",
+    "storage_bucket": "webrtc-e39e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096178492208:android:f5fe52bf8deee00e7e1ef5",
+        "android_client_info": {
+          "package_name": "com.example.webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096178492208-ocfr1qavlpovnoeks6oukboj2mc1rknn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webrtc",
+            "certificate_hash": "bd3f57602dce3ee868233c0045f9543053c5d202"
+          }
+        },
+        {
+          "client_id": "1096178492208-edbb5ile6n85t19vlkudlsg9hjc94lgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwhDWNuuYAtMU0PolF1csA_g63YslTcpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096178492208-edbb5ile6n85t19vlkudlsg9hjc94lgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
